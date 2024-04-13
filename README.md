@@ -7,7 +7,7 @@
   
   <p align="center">
     Sou Desenvolvedor Front End e gosto muito de inteligencia artificial
-    <h1>se tiveres alguma sugestao ai esta meu whatsapp</h1> <h2>+258870568953</h2>
+    <h1 style="text-algn:center;">se tiveres alguma sugestao ai esta meu whatsapp</h1> <h2>+258870568953</h2>
       <img
            width="10%" 
            align="center" 
