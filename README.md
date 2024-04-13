@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/ern2" alt="ERN">
+  <img src=".../ern2.png" alt="ERN">
 </div>
 <div>
   <h1 align="center">
