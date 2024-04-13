@@ -7,6 +7,7 @@
   
   <p align="center" font-size="60px">
     Sou Desenvolvedor Front End e gosto muito de inteligencia artificial
+    sei HTML, CSS, PYTHON E JAVASCRIPT. No momento estou explorado essas linguas mais a minha ambicao nao para por aqui nao 😏😏😏
     <h3 align="center">se tiveres alguma sugestao ai esta meu whatsapp</h3> <h2 align="center">+258870568953</h2>
       <img
            width="10%" 
