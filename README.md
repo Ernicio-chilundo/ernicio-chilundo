@@ -1,5 +1,7 @@
+<div align="center">
+  <img src="/ern2" alt="ERN">
+</div>
 <div>
-  
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/ernicio-chilundo/">Erníçio Chilundo 😃️</a>
