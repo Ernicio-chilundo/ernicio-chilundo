@@ -5,9 +5,9 @@
     <a href="https://www.linkedin.com/in/ernicio-chilundo/">Erníçio Chilundo 😃️</a>
   </h1>
   
-  <p align="center" font-size="35px">
+  <p align="center" font-size="60px">
     Sou Desenvolvedor Front End e gosto muito de inteligencia artificial
-    <h4 align="center">se tiveres alguma sugestao ai esta meu whatsapp</h4> <h2 align="center">+258870568953</h2>
+    <h3 align="center">se tiveres alguma sugestao ai esta meu whatsapp</h3> <h2 align="center">+258870568953</h2>
       <img
            width="10%" 
            align="center" 
