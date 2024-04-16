@@ -1,6 +1,4 @@
-<div align="center">
-  <img src=".../ern2.png" alt="ERN">
-</div>
+
 <div>
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
@@ -9,7 +7,7 @@
   
   <p align="center" font-size="60px">
     Sou Desenvolvedor Front End e gosto muito de inteligencia artificial
-    sei HTML, CSS, PYTHON E JAVASCRIPT. No momento estou explorado essas linguas mais a minha ambicao nao para por aqui nao 😏😏😏
+    sei HTML, CSS, PYTHON E JAVASCRIPT. No momento estou explorado essas linguas, mais a minha ambicao não para por aqui não 😏😏😏
     <h3 align="center">se tiveres alguma sugestao ai esta meu whatsapp</h3> <h2 align="center">+258870568953</h2>
       
   </p>
