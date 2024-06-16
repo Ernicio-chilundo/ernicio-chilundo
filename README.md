@@ -2,7 +2,7 @@
 <div>
   <h1 align="center">
     Oi Tudo bem? Aqui 
-    <a href="https://www.linkedin.com/in/ernicio-chilundo/">Erníçio Chilundo 😃️</a>
+    <a href="https://www.linkedin.com/in/ernicio-chilundo/">Ernício Chilundo 😃️</a>
   </h1>
   
   <p align="center" font-size="60px">
