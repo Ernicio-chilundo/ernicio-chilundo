@@ -1,13 +1,13 @@
 
 <div>
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Oi Tudo bem? Aqui 
     <a href="https://www.linkedin.com/in/ernicio-chilundo/">Erníçio Chilundo 😃️</a>
   </h1>
   
   <p align="center" font-size="60px">
-    Sou Desenvolvedor Front End e gosto muito de inteligencia artificial
-    sei HTML, CSS, PYTHON E JAVASCRIPT. No momento estou explorado essas linguas, mais a minha ambicao não para por aqui não 😏😏😏
+    APaixonado pela inteligencia artificial
+    No momento estou explorado essas linguas, mais a minha ambicao não para por aqui não 😏😏😏
     <h3 align="center">se tiveres alguma sugestao ai esta meu whatsapp</h3> <h2 align="center">+258870568953</h2>
       
   </p>
