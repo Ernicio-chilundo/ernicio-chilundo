@@ -8,7 +8,7 @@
   <p align="center" font-size="60px">
     APaixonado pela inteligencia artificial
     No momento estou explorado essas linguas, mais a minha ambicao não para por aqui não 😏😏😏
-    <h3 align="center">se tiveres alguma sugestao ai esta meu whatsapp</h3> <h2 align="center">+258870568953</h2>
+    <h3 align="center">se tiveres alguma sugestao ai esta meu whatsapp</h3> <h2 align="center">258870568953</h2>
       
   </p>
   
